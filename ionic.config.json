@@ -1,0 +1,7 @@
+{
+  "name": "ir-forms-validation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
